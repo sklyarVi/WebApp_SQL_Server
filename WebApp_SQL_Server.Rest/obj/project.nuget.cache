@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWUhHvnLo9mkuvIxnMB8Cj7nf0Q9+rsVeGJHY1byHneC4QxUzcAO+YPYEC50jfrkYnXk2+wRmyuTtOIaXN56kQ==",
+  "success": true,
+  "projectFilePath": "/Users/vitaliysklyar/Documents/Study/projektowanie-mob-app/WebApp_SQL_Server/WebApp_SQL_Server.Rest/WebApp_SQL_Server.Rest.csproj",
+  "expectedPackageFiles": [
+    "/Users/vitaliysklyar/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/vitaliysklyar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
